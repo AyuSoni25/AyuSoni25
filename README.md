@@ -1,16 +1,6 @@
 <h1 >Hello 👋, I'm Ayushi Soni</h1>
 <p><b> A Full Stack Development Enthusiast 💻, currently pursuing B.tech in Information Technology.</b></p>
 
-<a href="www.linkedin.com/in/ayushi-soni-ab470916a">   
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AyuSoni25" height="30" width="30" />
-</a>
-<a href="www.linkedin.com/in/ayushi-soni-ab470916a">   
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="AyuSoni25" height="30" width="30" />
-</a> 
-<a href="https://medium.com/@soniayu2000" target="blank">   
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="AyuSoni25" height="30" width="30" />
-</a>
-
 <br/>
 <br/>
 
@@ -27,6 +17,16 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayusoni25&layout=compact&hide=html&theme=radical" alt="AyuSoni25" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayusoni25&show_icons=true&theme=radical" alt="AyuSoni25" />
 
+<br/>
+<br/>
 
-
+<a href="www.linkedin.com/in/ayushi-soni-ab470916a">   
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AyuSoni25" height="30" width="30" />
+</a>
+<a href="www.linkedin.com/in/ayushi-soni-ab470916a">   
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="AyuSoni25" height="30" width="30" />
+</a> 
+<a href="https://medium.com/@soniayu2000" target="blank">   
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="AyuSoni25" height="30" width="30" />
+</a>
 
