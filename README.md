@@ -26,7 +26,7 @@
 <a href="www.linkedin.com/in/ayushi-soni-ab470916a">   
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="AyuSoni25" height="30" width="30" />
 </a> 
-<a href="https://medium.com/@soniayu2000" target="blank">   
+<a href="https://ayushi-soni-25.medium.com/" target="blank">   
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="AyuSoni25" height="30" width="30" />
 </a>
 
