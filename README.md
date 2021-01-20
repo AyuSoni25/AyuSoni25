@@ -1,4 +1,4 @@
-<h1 >Hello 👋, I'm Ayushi Soni</h1>
+<h1 >Hello 👋, I'm Ayushi Soni   <a href="https://ayushi-portfolio.netlify.app/">:link:</a></h1>
 <p><b> A Full Stack Development Enthusiast 💻, currently pursuing B.tech in Information Technology.</b></p>
 
 <br/>
@@ -30,3 +30,4 @@
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="AyuSoni25" height="30" width="30" />
 </a>
 
+ 
