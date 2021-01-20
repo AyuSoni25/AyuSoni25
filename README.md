@@ -20,7 +20,7 @@
 <br/>
 <br/>
 
-<a href="www.linkedin.com/in/ayushi-soni-ab470916a">   
+<a href="https://linkedin.com/in/ayushi-soni-ab470916a">   
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AyuSoni25" height="30" width="30" />
 </a>
 <a href="www.linkedin.com/in/ayushi-soni-ab470916a">   
