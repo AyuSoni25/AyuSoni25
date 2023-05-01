@@ -1,5 +1,5 @@
 <h1 >Hello 👋, I'm Ayushi Soni   <a href="https://ayushi-portfolio.netlify.app/">:link:</a></h1>
-<p><b> A Full Stack Development Enthusiast 💻, currently pursuing B.tech in Information Technology.</b></p>
+<p><b>Software Development Engineer 💻, working on Flutter and GraphQl at HashedIn By Deloitte.</b></p>
 
 <br/>
 <br/>
