@@ -1,4 +1,4 @@
-<h1 >Hello 👋, I'm Ayushi Soni   <a href="https://ayushi-portfolio.netlify.app/">:link:</a></h1>
+<h1 >Hello 👋, I'm Ayushi Soni</h1>
 <p><b>Software Development Engineer 💻, currently working at HashedIn By Deloitte and have experience in various tech stacks including Mobile Application Development using Flutter & Bloc, Web Application Development using ReactJS & Redux, Server Application Development using frameworks like Express and Fastify, databases like MySQL & MongoDB incorporating the technical aspects of microservice architecture, mvc architecture, containerization using docker, etc</b></p>
 
 <br/>
